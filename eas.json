@@ -1,0 +1,10 @@
+{
+	"cli": {
+		"version": ">= 0.55.1"
+	},
+	"build": {
+		"preview": {
+			"developmentClient": true
+		}
+	}
+}
